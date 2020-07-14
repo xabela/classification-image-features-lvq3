@@ -1,18 +1,5 @@
-Nama,Tahun,Stok,pertambahan,rusak,total butuh stok
-Anco,2020,106,28,5,33
-Anco,2019,78,6,0,6
-Anco,2018,72,32,5,37
-Anco,2017,40,0,0,0
-Genset,2020,2,1,1,2
-Genset,2018,1,0,0,0
-Kipas Kincir,2020,184,64,7,71
-Kipas Kincir,2019,120,20,0,20
-Kipas Kincir,2018,100,38,4,42
-Kipas Kincir,2017,62,0,0,0
-Kipas Kincir,2021,,,,
-Kipas Kincir,2025,,,,
-Kipas Kincir,2030,,,,
-Anco,2021,,,,
-Anco,2024,,,,
-Anco,2028,,,,
-Genset,2021,,,,
+Tahun,pertambahan,rusak,total butuh stok
+2020,28,5,33
+2019,6,0,6
+2018,32,5,37
+2017,40,0,0
