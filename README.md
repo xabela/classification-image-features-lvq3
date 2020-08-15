@@ -4,5 +4,5 @@ This is my final project of Jaringan Syaraf Tiruan Course in Fakultas Ilmu Kompu
 It is about classification an image features (contrast, energy, homogeneity, correlation, dissimilarity) using Learning Vector Quantization 3 in Python.
 
 ## Instruction
-Run main.py
-Input the directory of training data and testing data
+1. Run main.py
+2. Input the directory of training data and testing data
